@@ -1,0 +1,6 @@
+QCommandLineParser: already having an option named "h"
+QCommandLineParser: already having an option named "help-all"
+QCommandLineParser: already having an option named "v"
+QCommandLineParser: already having an option named "h"
+QCommandLineParser: already having an option named "help-all"
+QCommandLineParser: already having an option named "v"
